@@ -1,0 +1,29 @@
+body{
+width: 100%;
+background-color:#ccf2ff;
+margin: 0;
+}
+
+.title{
+  font-family: 'Pacifico', cursive;
+  font-size: 50px;
+  text-align: center
+}
+.subheading{
+  font-family: 'Amatic SC', cursive;
+  font-size: 35px;
+  text-align: center
+}
+
+.different-colour{
+  background-color: 	#f6d5f6;
+}  
+
+.carli{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 0px;
+  padding-bottom: 60px;
+  width: 98%;
+  #border: 10px  #f6d5f6;
+}
